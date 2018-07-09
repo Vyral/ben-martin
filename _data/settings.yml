@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: -- MARKET -- Real Estate Video Blog with Ben Martin
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -7,41 +7,44 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Ben Martin
   title:
-  license_number:
+  license_number: 'CA BRE 01333096'
   about_markdown: |
+    First and foremost, I am a loving father to my three amazing children, Brennan, Emma and Brody. I am a graduate of CSUF with a degree in Communications. I am a 3rd generation Real Estate Broker, with a team that has over 16 years experience.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    I pride myself in giving my clients the best service possible. I study homes and prices every day in order to be able to give my clients the most accurate information about homes in this area. We use the most up-to-date systems and technology to give our clients the greatest amount of exposure possible when helping them to sell or buy a home. It is our commitment to provide each and every client with a 10+ experience. We promise to provide Real Answers to Real Questions about Real Estate!
+  market: Fresno
+  brand: The Benjamin Martin Real Estate Team
+  brokerage: Keller Williams
+  brokerage_license: 'CA BRE 01864461'
+  address: '7625 N. Palm, #106<br>Fresno, CA 93711'
+  phone: 559-900-1600
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Ben@TheBenjaminMartinTeam.com
+  url: http://www.BenMartinHomes.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://search.benmartinhomes.com/idx/homevaluation
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://search.benmartinhomes.com/idx/map/mapsearch
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://search.benmartinhomes.com/idx/homevaluation
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://search.benmartinhomes.com/idx/map/mapsearch
 
 lender:
   show_section: false
@@ -100,7 +103,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
