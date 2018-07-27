@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Benjamin Martin Real Estate Team - your professional Fresno Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Ben Martin</managingEditor>
-    <lastBuildDate>2018-07-09 15:02:11 -0500</lastBuildDate>
+    <lastBuildDate>2018-07-27 14:54:35 -0500</lastBuildDate>
     <media:copyright>Ben Martin</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Fresno, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,92 +25,48 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <title>What the Coming Shift Means for You</title>
+        <link>http://localhost:4000/what-the-coming-shift-means-for-you.html</link>
         
           <category>Market Update</category>
         
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
-        
         <author>Ben Martin</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2018-07-23 13:20:10 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Ben+Martin/Video/2018/Fresno+Real+Estate+Agent-+How+Is+The+Real+Estate+Market+Right+Now%253F.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+People always ask me whether we are in a buyer’s market or a seller’s market, and so today I am going to bring you my answer.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+First, though, let me explain what each of these terms means. A seller’s market is defined as one where there are less than six months of available inventory. A buyer’s market is defined as one with more than that.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Currently, our area has just about 1.7 months of inventory, meaning that if no other homes came on the market in that time, we would completely run out of listings. In other words, we are in a strong seller’s market.
 
-“This is an example of a pull quote”
+The good news is that about 500 or 600 homes are coming to our market each month, and the number of listings available in our market at any given time has been steadily rising. This is because home prices have also risen.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+“Buyers and sellers need to make their move as soon as possible in order to capture the best deal from our market.”
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+That said, we are headed for a shift, and there are two reasons why:
+
+
+  
+    Interest rates have gone up. As the US bond rate has gone up and investors begin to shift their focus to this area, rates will rise as well.
+  
+  
+    Affordability is going to drop.
+  
+
+
+With all of this in mind, buyers and sellers need to make their move as soon as possible in order to capture the best deal from our market. Conditions are not going to last.
+
+If you have any other questions or would like more information, please feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ben+Martin/Video/2018/Fresno+Real+Estate+Agent-+How+Is+The+Real+Estate+Market+Right+Now%253F.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Ben+Martin/Video/2018/Fresno+Real+Estate+Agent-+How+Is+The+Real+Estate+Market+Right+Now%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Who is our market favoring right now: buyers or sellers? Today I will explain the answer to this, and give you some insight into other recent developments.</itunes:subtitle>
         <itunes:author>Ben Martin</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Fresno, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author>Ben Martin</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author>Ben Martin</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Who is our market favoring right now: buyers or sellers? Today I will explain the answer to this, and give you some insight into other recent developments.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Fresno, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
