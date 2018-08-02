@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Coming Shift Means for You
-date: 2018-07-23 18:20:10
+date: 2018-08-02 18:20:00
 tags:
   - Market Update
 excerpt: >-
