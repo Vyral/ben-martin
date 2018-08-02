@@ -33,9 +33,9 @@ The good news is that about 500 or 600 homes are coming to our market each month
 
 **That said, we are headed for a shift, and there are two reasons why:**
 
-1. Interest rates have gone up. As the US bond rate has gone up and investors begin to shift their focus to this area, rates will rise as well.
+* Interest rates have gone up. As the U.S. bond rate has gone up and investors begin to shift their focus to this area, rates will rise as well.
 
-2. Affordability is going to drop.
+* Affordability is going to drop.
 
 With all of this in mind, buyers and sellers need to make their move as soon as possible in order to capture the best deal from our market. Conditions are not going to last.
 
