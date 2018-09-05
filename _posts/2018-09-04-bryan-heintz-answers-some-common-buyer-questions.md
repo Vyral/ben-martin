@@ -19,13 +19,13 @@ youtube_code: ray9750fC2A
 
 {% include youtube.html %}
 
-Today we are here with a great friend and lender extraordinaire, Bryan Heintz with Sierra Pacific Mortgage. **We’re here to ask him some common questions that homebuyers tend to have and let him use his expertise to answer them.**
+Today we are here with a great friend and lender extraordinaire, Bryan Heintz with Sierra Pacific Mortgage. **We'll ask him some common questions that homebuyers tend to have and let him use his expertise to answer them.**
 
 Many buyers are put off and fearful of the home buying process. They don’t know what they don’t know and aren’t sure if they will get approved. **How can Brian help buyers alleviate that fear?**
 
 {% include pullquote.html %}
 
-With new buyers, Bryan and his team do a great job at easing their minds. He gives them a call, then either meets with them in person or invites them to apply online. He lets buyers know that he’s here to help. **If they’re afraid of not qualifying at the moment, they can tailor a game plan for them to get approved down the line.** Bryan and his team also help with credit repair, saving for down payments, and more. They can pull credit without it affecting the score and have a great process in place.
+With new buyers, Bryan and his team do a great job of easing their minds. He gives them a call, then either meets with them in person or invites them to apply online. He lets buyers know that he’s here to help. **If they’re afraid of not qualifying at the moment, they can tailor a game plan for them to get approved down the line.** Bryan and his team also help with credit repair, saving for down payments, and more. They can pull credit without it affecting the score and have a great process in place.
 
 Most people are worried about not qualifying right away, so they also focus on getting buyers excited to start the process.
 
