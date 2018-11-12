@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do Homebuyers Want to Know About Today’s Market?
-date: 2018-11-08 16:23:09
+date: 2018-11-08 16:23:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: QMBk1w8gVaU
+youtube_code: xyDBDdejB6c
 ---
 
 {% include youtube.html %}
@@ -33,5 +33,3 @@ According to Ashley, the first step to winning in this market is by getting pre-
 Finally, buyers want to know what they can do to stand out against the heavy competition and make a winning offer. Ashley has actually had great success and has gotten her buyers their dream house 100% of the time she has used it. **She’s never lost an offer when using this strategy.**
 
 If you’re a buyer and you’re looking to buy in this competitive market, you need an expert like Ashley in order to get the home you want at the price you want. If you have any questions for us about the market or about how we can help you find the perfect home, don’t hesitate to give us a call or send us an email. I look forward to hearing from you soon.
-
-&nbsp;
