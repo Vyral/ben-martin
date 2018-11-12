@@ -22,7 +22,7 @@ youtube_code: QMBk1w8gVaU
 
 Ashley Naffziger recently joined us to help answer a few of the most common questions that we’re hearing from buyers out there. **The first is, “How can I win in this market?”**
 
-According to Ashley, the first step to winning in this market is by getting pre-qualified by meeting with a local mortgage lender. It’s always important to know what you qualify for, otherwise you’re just wasting your time.
+According to Ashley, the first step to winning in this market is by getting pre-qualified by meeting with a local mortgage lender. It’s always important to know what you qualify for; otherwise, you’re just wasting your time.
 
 **Another question we hear all the time is, “How many homes am I going to have to see before I find the right one?”** The answer to this question varies. Other teams and agents may show around 20 homes before a buyer finds a home they want to write an offer on. Here at the Benjamin Martin Team, we only show an average of five homes before our buyers get to this point because of our thorough pre-qualification meeting with our buyers.
 
