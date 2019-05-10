@@ -1,7 +1,7 @@
 ---
 layout: post
 title: These Are the Key Points to Know Regarding Home Insurance
-date: 2019-05-10 19:28:20
+date: 2019-05-10 19:28:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: nikUNZbHTbg
 ---
 
 {% include youtube.html %}
