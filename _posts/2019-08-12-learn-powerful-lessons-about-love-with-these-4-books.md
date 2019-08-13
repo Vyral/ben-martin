@@ -21,11 +21,11 @@ youtube_code: d8bixxAgN7s
 
 {% include youtube.html %}
 
-My team and I believe strongly in the power of giving back. And one of my personal favorite ways to do so is by sharing knowledge, which is exactly what I’d like to do in today’s message.
+My team and I believe strongly in the power of giving back. And one of my favorite ways to do so is by sharing knowledge, which is exactly what I’d like to do in today’s message.
 
 Joining me in the video above is none other than my own father: **Reverend Dr. Bryan Martin, who is here to talk about his two new books—both of which center on his favorite topic: love.&nbsp;**
 
-These two books, titled “The Kindness Book” and “Oxytocin Is the ‘O’ in ‘Love: How to Maintain and Sustain an Emotional Connection,’” are the final installments in his four-part series. The latter of these two books has not yet been published, but is sure to be just as incredible as the three he’s released so far.&nbsp;
+These two books, titled “The Kindness Book” and “Oxytocin Is the ‘O’ in ‘Love': How to Maintain and Sustain an Emotional Connection,” are the final installments in his four-part series. The latter of these two books has not yet been published, but is sure to be just as incredible as the three he’s released so far.&nbsp;
 
 {% include pullquote.html %}
 
